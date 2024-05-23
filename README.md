@@ -5,7 +5,6 @@ import schedule
 import time
 import asyncio
 
-# Dein Discord Bot Token
 DISCORD_TOKEN = 'Your Discord Token'
 current_link = 'Current Link' 
 
